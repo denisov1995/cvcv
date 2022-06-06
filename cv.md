@@ -13,7 +13,7 @@ I want to realize myself in the profession of a developer. My next goal is to ge
 - HTML
 - CSS
 ## **Code Example:**
-```
+\`\`\`
 <style>
   .violet {
     color: #9400d3;
@@ -22,7 +22,7 @@ I want to realize myself in the profession of a developer. My next goal is to ge
 <p class="important-information">
   <span class="violet">Внимание!</span> Важная информация
 </p>
-```
+\`\`\`
 ## **Education:**
 - 2012-2015 Minsk State Automechanical college named after academician M.S. Vysotsky.
 - 2016-2020 Belarus State Economic Univercity, Minsk. 
